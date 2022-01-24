@@ -46,6 +46,8 @@
 }
 /* End Slider Section */
 
+/* Start Our package */
+
   .pricing .card {
     border: none;
     border-radius: 1rem;
@@ -74,4 +76,9 @@
     letter-spacing: .1rem;
     font-weight: bold;
     padding: 1rem;
+  }
+  /*  End Our package */
+
+  .clients{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   }
